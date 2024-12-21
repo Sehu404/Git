@@ -1,0 +1,44 @@
+body{
+    background: url('nnw.png') no-repeat center center fixed;
+    background-size: cover;
+    
+}
+body section{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.searching {
+    display: flex;
+    padding-top: 20px;
+    background-color: aqua;
+    justify-content: right;
+    padding-right: 350px;
+
+}
+
+
+
+.box{ 
+    
+    background-color: rgb(17, 91, 91);
+  
+    
+    width: 350px;
+    height: 350px;
+    
+}
+
+.box h1{
+   
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+    
+}
+.box img{
+
+    width: 100%;
+    height: 100%;
+   
+}
